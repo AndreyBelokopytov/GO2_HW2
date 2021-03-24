@@ -1,4 +1,6 @@
 # GO2_HW2
 
 
-test cchanges from local machine
+1. test changes from local machine
+
+2. test git push with token
